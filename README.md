@@ -30,6 +30,3 @@ All three random forest models were trained in `model/FART-Random-Forest-Models.
 
 The transformer models were trained in `model/FART-Transformer-Models.ipynb`. The data is loaded using the hugging face api. For different pretrained models one needs to adjust the `model_checkpoint` parameter. To use a weighted loss fontion, one needs to use `trainer = CustomTrainer` instead of `trainer = Trainer`. To use augmentation on needs to set `augmentation = True`. The attention weights were extracted using `model/attention_extractor.ipynb`. Trained transformer models are available at https://huggingface.co/FartLabs.
 
-## Authors and acknowledgment
-This project was developed by the FART team: Franz Goerlich, Philipp Pestlin, Henrik Seng, Leif Sieben and Yoel Zimmermann
-

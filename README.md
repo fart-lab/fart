@@ -10,7 +10,6 @@ All .ipynb notebooks can be run on GoogleColab without any further modifications
 ## Overview of files
 
 * the entire raw, curated and enriched dataset is found in /dataset
-* the dataset split along sources can be found in /dataset/Individual-Datasets
 * Files for the extraction, curation and enrichment of the dataset are found in /dataset
 * Files for the training of the random forest and transformer models are found in /models 
 

@@ -1,0 +1,248 @@
+Names,Canonical SMILES,INCHIKEY,CAS number,Canonicalized Taste,Source,Canonicalized SMILES,Original Labels
+(-)-Epicatechin,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,PFTAWBLQPZVEMU-UKRRQHHQSA-N,35323-91-2,bitter,tas2r_agonists,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2,Ligand to Tas2 Receptor
+(-)-α-thujone,CC1C2CC2(CC1=O)C(C)C,USMNOWBWPHYOEA-MRTMQBJTSA-N,546-80-5,bitter,tas2r_agonists,CC1C(=O)CC2(C(C)C)CC12,Ligand to Tas2 Receptor
+Absinthin,CC1C2CCC(C3C4C5C=C(C6(C4C(=C3C2OC1=O)C)C5C(CCC7C6OC(=O)C7C)(C)O)C)(C)O,PZHWYURJZAPXAN-ILOFNVQHSA-N,1362-42-1,bitter,tas2r_agonists,CC1=CC2C3C4C(=C(C)C3C13C1OC(=O)C(C)C1CCC(C)(O)C23)C1OC(=O)C(C)C1CCC4(C)O,Ligand to Tas2 Receptor
+Allyl Isothiocyanate (AITC),C=CCN=C=S,ZOJBYZNEUISWFT-UHFFFAOYSA-N,7 06 7,bitter,tas2r_agonists,C=CCN=C=S,Ligand to Tas2 Receptor
+Amarogentin,C=CC1C2CCOC(=O)C2=COC1OC3C(C(C(C(O3)CO)O)O)OC(=O)C4=C(C=C(C=C4O)O)C5=CC(=CC=C5)O,DBOVHQOUSDWAPQ-WTONXPSSSA-N,21018-84-8,bitter,tas2r_agonists,C=CC1C(OC2OC(CO)C(O)C(O)C2OC(=O)c2c(O)cc(O)cc2-c2cccc(O)c2)OC=C2C(=O)OCCC21,Ligand to Tas2 Receptor
+Arbutin,C1=CC(=CC=C1O)OC2C(C(C(C(O2)CO)O)O)O,BJRNKVDFDLYUGJ-RMPHRYRLSA-N, 497-76-7,bitter,tas2r_agonists,OCC1OC(Oc2ccc(O)cc2)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,RYYVLZVUVIJVGH-UHFFFAOYSA-N,58-08-2,bitter,tas2r_agonists,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Ligand to Tas2 Receptor
+Calcium chloride; CaCl2,O.O.[Cl-].[Cl-].[Ca+2],LLSDKQJKOVVTOJ-UHFFFAOYSA-L,10043-52-4,bitter,tas2r_agonists,O.O.[Ca+2].[Cl-].[Cl-],Ligand to Tas2 Receptor
+Castalagin,C1C2C(C3C4C(C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O,UDYKDZHZAKSYCO-UHFFFAOYSA-N,24312-00-3,bitter,tas2r_agonists,O=C1OCC2OC(=O)c3cc(O)c(O)c(O)c3-c3c(O)c(O)c(O)c4c3C(=O)OC(C2OC(=O)c2cc(O)c(O)c(O)c2-c2c1cc(O)c(O)c2O)C1OC(=O)c2c-4c(O)c(O)c(O)c2C1O,Ligand to Tas2 Receptor
+Coumarin,C1=CC=C2C(=C1)C=CC(=O)O2,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,91-64-5,bitter,tas2r_agonists,O=c1ccc2ccccc2o1,Ligand to Tas2 Receptor
+Cucurbitacin B,CC(=O)OC(C)(C)C=CC(=O)C(C)(C1C(CC2(C1(CC(=O)C3(C2CC=C4C3CC(C(=O)C4(C)C)O)C)C)C)O)O,IXQKXEUSCPEQRD-DKRGWESNSA-N,6199-67-3,bitter,tas2r_agonists,CC(=O)OC(C)(C)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(CC(O)C(=O)C4(C)C)C3(C)C(=O)CC12C,Ligand to Tas2 Receptor
+Cucurbitacin D,CC1(C2=CCC3C4(CC(C(C4(CC(=O)C3(C2CC(C1=O)O)C)C)C(C)(C(=O)C=CC(C)(C)O)O)O)C)C,SRPHMISUTWFFKJ-QJNWWGCFSA-N,3877-86-9,bitter,tas2r_agonists,CC(C)(O)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(CC(O)C(=O)C4(C)C)C3(C)C(=O)CC12C,Ligand to Tas2 Receptor
+Cucurbitacin E,CC(=O)OC(C)(C)C=CC(=O)C(C)(C1C(CC2(C1(CC(=O)C3(C2CC=C4C3C=C(C(=O)C4(C)C)O)C)C)C)O)O,NDYMQXYDSVBNLL-MUYMLXPFSA-N,18444-66-1,bitter,tas2r_agonists,CC(=O)OC(C)(C)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(C=C(O)C(=O)C4(C)C)C3(C)C(=O)CC12C,Ligand to Tas2 Receptor
+Cucurbitacin I,CC1(C2=CCC3C4(CC(C(C4(CC(=O)C3(C2C=C(C1=O)O)C)C)C(C)(C(=O)C=CC(C)(C)O)O)O)C)C,NISPVUDLMHQFRQ-MKIKIEMVSA-N,2222 07 03,bitter,tas2r_agonists,CC(C)(O)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(C=C(O)C(=O)C4(C)C)C3(C)C(=O)CC12C,Ligand to Tas2 Receptor
+D-Amygdalin,C1=CC=C(C=C1)C(C#N)OC2C(C(C(C(O2)COC3C(C(C(C(O3)CO)O)O)O)O)O)O,XUCIJNAGGSZNQT-UHFFFAOYSA-N,9883-15-6,bitter,tas2r_agonists,N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1,Ligand to Tas2 Receptor
+Docosahexaenoic Acid; DHA,CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O,MBMBGCFOFBJSGT-KUBAVDMBSA-N,6217-54-5,bitter,tas2r_agonists,CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O,Ligand to Tas2 Receptor
+D-phenylalanine; D-Phe,C1=CC=C(C=C1)CC(C(=O)O)N,COLNVLDHVKWLRT-MRVPVSSYSA-N,673-06-3 ,bitter,tas2r_agonists,NC(Cc1ccccc1)C(=O)O,Ligand to Tas2 Receptor
+Epigallocatechin gallate; EGCG,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,WMBWREPUVVBILR-WIYYLYMNSA-N,989-51-5,bitter,tas2r_agonists,O=C(OC1Cc2c(O)cc(O)cc2OC1c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1,Ligand to Tas2 Receptor
+Ethylpyrazine,CCC1=NC=CN=C1,KVFIJIWMDBAGDP-UHFFFAOYSA-N,13925-00-3,bitter,tas2r_agonists,CCc1cnccn1,Ligand to Tas2 Receptor
+Falcarindiol,CCCCCCCC=CC(C#CC#CC(C=C)O)O,QWCNQXNAFCBLLV-YWALDVPYSA-N,225110-25-8,bitter,tas2r_agonists,C=CC(O)C#CC#CC(O)C=CCCCCCCC,Ligand to Tas2 Receptor
+Ferulic acid,COC1=C(C=CC(=C1)C=CC(=O)O)O,KSEBMYQBYZTDHS-HWKANZROSA-N,1135-24-6,bitter,tas2r_agonists,COc1cc(C=CC(=O)O)ccc1O,Ligand to Tas2 Receptor
+Genistein,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,TZBJGXHYKVUXJN-UHFFFAOYSA-N,446-72-0,bitter,tas2r_agonists,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+Gentiobiose,C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O)O,DLRVVLDZNNYCBX-LIZSDCNHSA-N,5996-00-9,bitter,tas2r_agonists,OCC1OC(OCC2OC(O)C(O)C(O)C2O)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Glucoputranjivin,CC(C)C(=NOS(=O)(=O)[O-])SC1C(C(C(C(O1)CO)O)O)O,WGIQZGDVCQDPTG-WUBUQRIPSA-M,18432-16-1,bitter,tas2r_agonists,CC(C)C(=NOS(=O)(=O)[O-])SC1OC(CO)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Grandinin,C1C2C(C3C4C(C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)C8(C(C(C(O8)CO)O)O)O)OC(=O)C9=CC(=C(C(=C9C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O,GCEXRPOQEVIITL-XJDSPLDHSA-N,115166-32-0,bitter,tas2r_agonists,O=C1OCC2OC(=O)c3cc(O)c(O)c(O)c3-c3c(O)c(O)c(O)c4c3C(=O)OC(C2OC(=O)c2cc(O)c(O)c(O)c2-c2c1cc(O)c(O)c2O)C1OC(=O)c2c-4c(O)c(O)c(O)c2C1C1(O)OC(CO)C(O)C1O,Ligand to Tas2 Receptor
+Grosheimin; Grossheimin,CC1C2C(CC1=O)C(=C)CC(C3C2OC(=O)C3=C)O,YGMIBVIKXJJQQJ-MSOSQAFRSA-N,22489-66-3,bitter,tas2r_agonists,C=C1CC(O)C2C(=C)C(=O)OC2C2C(C)C(=O)CC12,Ligand to Tas2 Receptor
+Humulone,CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O,VMSLCPKYRPDHLN-NRFANRHFSA-N,26472-41-3 ,bitter,tas2r_agonists,CC(C)=CCC1=C(O)C(O)(CC=C(C)C)C(=O)C(C(=O)CC(C)C)=C1O,Ligand to Tas2 Receptor
+lactucopicrin,CC1=C2C(C3C(C(C1)OC(=O)CC4=CC=C(C=C4)O)C(=C)C(=O)O3)C(=CC2=O)CO,UMVSOHBRAQTGQI-XGARDCMYSA-N,65725-11-3,bitter,tas2r_agonists,C=C1C(=O)OC2C3C(CO)=CC(=O)C3=C(C)CC(OC(=O)Cc3ccc(O)cc3)C12,Ligand to Tas2 Receptor
+Limonin,CC1(C2CC(=O)C3(C(C24COC(=O)CC4O1)CCC5(C36C(O6)C(=O)OC5C7=COC=C7)C)C)C,KBDSLGBFQAGHBE-MSGMIQHVSA-N,1180-71-8,bitter,tas2r_agonists,CC1(C)OC2CC(=O)OCC23C1CC(=O)C1(C)C3CCC2(C)C(c3ccoc3)OC(=O)C3OC321,Ligand to Tas2 Receptor
+L-Trp; L-Tryptophan,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,QIVBCDIJIAJPQS-VIFPVBQESA-N,73-22-3,bitter,tas2r_agonists,NC(Cc1c[nH]c2ccccc12)C(=O)O,Ligand to Tas2 Receptor
+Magnesium chloride; MgCl2,[Mg+2].[Cl-].[Cl-],TWRXJAOTZQYOKJ-UHFFFAOYSA-L,7786-30-3,bitter,tas2r_agonists,[Cl-].[Cl-].[Mg+2],Ligand to Tas2 Receptor
+Pantothenic acid,CC(C)(CO)C(C(=O)NCCC(=O)O)O,GHOKWGTUZJEAQD-ZETCQYMHSA-N,79-83-4,bitter,tas2r_agonists,CC(C)(CO)C(O)C(=O)NCCC(=O)O,Ligand to Tas2 Receptor
+Phenylethyl isothiocyanate; PEITC,C1=CC=C(C=C1)CCN=C=S,IZJDOKYDEWTZSO-UHFFFAOYSA-N,2257 09 2,bitter,tas2r_agonists,S=C=NCCc1ccccc1,Ligand to Tas2 Receptor
+Procyanidin B1,C1C(C(OC2=C1C(=CC(=C2C3C(C(OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O,XFZJEEAOWLFHDH-UKWJTHFESA-N,20315-25-7,bitter,tas2r_agonists,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2,Ligand to Tas2 Receptor
+Procyanidin B2g,C1C(C(OC2=C1C(=CC(=C2C3C(C(OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O,XFZJEEAOWLFHDH-DAIQQCIXSA-N,29106-49-8,bitter,tas2r_agonists,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2,Ligand to Tas2 Receptor
+Procyanidin B4,C1C(C(OC2=C1C(=CC(=C2C3C(C(OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O,XFZJEEAOWLFHDH-VUGKQVTMSA-N,29106-51-2,bitter,tas2r_agonists,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2,Ligand to Tas2 Receptor
+Procyanidin B7,C1C(C(OC2=C1C(=C(C(=C2)O)C3C(C(OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)C6=CC(=C(C=C6)O)O)O,GMISZFQPFDAPGI-PWFSPABBSA-N,12798-59-3,bitter,tas2r_agonists,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc2c(c1O)CC(O)C(c1ccc(O)c(O)c1)O2,Ligand to Tas2 Receptor
+Protocatechuic acid,C1=CC(=C(C=C1C(=O)O)O)O,YQUVCSBJEUQKSH-UHFFFAOYSA-N,99-50-3,bitter,tas2r_agonists,O=C(O)c1ccc(O)c(O)c1,Ligand to Tas2 Receptor
+Punicalagin,C1C2C(C3C(C(O2)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O3)O)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C8C9=C7C(=O)OC2=C(C(=C(C3=C(C(=C(C=C3C(=O)O1)O)O)O)C(=C92)C(=O)O8)O)O)O)O)O)O)O,ZJVUMAFASBFUBG-UYMKNUMKSA-N,65995-63-3,bitter,tas2r_agonists,O=C1OC2C(O)OC3COC(=O)c4cc(O)c(O)c(O)c4-c4c(O)c(O)c5oc(=O)c6c(c(O)c(O)c7oc(=O)c4c5c76)-c4c(cc(O)c(O)c4O)C(=O)OC3C2OC(=O)c2cc(O)c(O)c(O)c2-c2c1cc(O)c(O)c2O,Ligand to Tas2 Receptor
+Pyrocatechin,C1=CC=C(C(=C1)O)O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,120-80-9,bitter,tas2r_agonists,Oc1ccccc1O,Ligand to Tas2 Receptor
+Quinine,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,LOUPRKONTZGTKE-WZBLMQSHSA-N,130-95-0,bitter,tas2r_agonists,C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12,Ligand to Tas2 Receptor
+Rebaudioside A,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)OC5C(C(C(C(O5)CO)O)OC6C(C(C(C(O6)CO)O)O)O)OC7C(C(C(C(O7)CO)O)O)O)(C)C(=O)OC8C(C(C(C(O8)CO)O)O)O,HELXLJCILKEWJH-NCGAPWICSA-N,	58543-16-1,bitter,tas2r_agonists,C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(CO)C(O)C(O)C1O)C3,Ligand to Tas2 Receptor
+Resveratrol,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,LUKBXSAWLPMMSZ-OWOJBTEDSA-N,501-36-0,bitter,tas2r_agonists,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,Ligand to Tas2 Receptor
+D-Salicin,C1=CC=C(C(=C1)CO)OC2C(C(C(C(O2)CO)O)O)O,NGFMICBWJRZIBI-UJPOAAIJSA-N,138-52-3,bitter,tas2r_agonists,OCc1ccccc1OC1OC(CO)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,YGSDEFSMJLZEOE-UHFFFAOYSA-N,69-72-7,bitter,tas2r_agonists,O=C(O)c1ccccc1O,Ligand to Tas2 Receptor
+Sinigrin,C=CCC(=NOS(=O)(=O)[O-])SC1C(C(C(C(O1)CO)O)O)O.[K+],QKFAFSGJTMHRRY-OCFLFPRFSA-M,534-69-0,bitter,tas2r_agonists,C=CCC(=NOS(=O)(=O)[O-])SC1OC(CO)C(O)C(O)C1O.[K+],Ligand to Tas2 Receptor
+Sodium benzoate ,C1=CC=C(C=C1)C(=O)[O-].[Na+],WXMKPNITSTVMEF-UHFFFAOYSA-M,532-32-1,bitter,tas2r_agonists,O=C([O-])c1ccccc1.[Na+],Ligand to Tas2 Receptor
+Stevioside,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)(C)C(=O)OC7C(C(C(C(O7)CO)O)O)O,UEDUENGHJMELGK-HYDKPPNVSA-N,57817-89-7,bitter,tas2r_agonists,C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)C3,Ligand to Tas2 Receptor
+Theobromine,CN1C=NC2=C1C(=O)NC(=O)N2C,YAPQBXQYLJRXSA-UHFFFAOYSA-N,83-67-0,bitter,tas2r_agonists,Cn1cnc2c1c(=O)[nH]c(=O)n2C,Ligand to Tas2 Receptor
+Thiamine; Vitamine B1,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO,JZRWCGZRTZMZEH-UHFFFAOYSA-N,70-16-6,bitter,tas2r_agonists,Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1,Ligand to Tas2 Receptor
+Umbelliferone,C1=CC(=CC2=C1C=CC(=O)O2)O,ORHBXUUXSCNDEV-UHFFFAOYSA-N,93-35-6,bitter,tas2r_agonists,O=c1ccc2ccc(O)cc2o1,Ligand to Tas2 Receptor
+Vanillic acid,COC1=C(C=CC(=C1)C(=O)O)O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,121-34-6,bitter,tas2r_agonists,COc1cc(C(=O)O)ccc1O,Ligand to Tas2 Receptor
+Vescalagin,C1C2C(C3C4C(C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O,UDYKDZHZAKSYCO-UHFFFAOYSA-N,24312-00-3,bitter,tas2r_agonists,O=C1OCC2OC(=O)c3cc(O)c(O)c(O)c3-c3c(O)c(O)c(O)c4c3C(=O)OC(C2OC(=O)c2cc(O)c(O)c(O)c2-c2c1cc(O)c(O)c2O)C1OC(=O)c2c-4c(O)c(O)c(O)c2C1O,Ligand to Tas2 Receptor
+α-Santonin (-)-Form; Santonin,CC1C2CCC3(C=CC(=O)C(=C3C2OC1=O)C)C,XJHDMGJURBVLLE-BOCCBSBMSA-N,481-06-1,bitter,tas2r_agonists,CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O,Ligand to Tas2 Receptor
+L-Alanine,CC(C(=O)O)N,QNAYBMKLOCPYGJ-REOHCLBHSA-N,56-41-7 ,bitter,tas2r_agonists,CC(N)C(=O)O,Ligand to Tas2 Receptor
+L-Histidine,C1=C(NC=N1)CC(C(=O)O)N,HNDVDQJCIGZPNO-YFKPBYRVSA-N,71-00-1,bitter,tas2r_agonists,NC(Cc1cnc[nH]1)C(=O)O,Ligand to Tas2 Receptor
+Adhumulone,CCC(C)C(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O,LDXMPKMQIKGJFN-UHFFFAOYSA-N,31769-65-0,bitter,tas2r_agonists,CCC(C)C(=O)C1=C(O)C(CC=C(C)C)=C(O)C(O)(CC=C(C)C)C1=O,Ligand to Tas2 Receptor
+Adlupulone,CCC(C)C(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O,QXPOWGXRDUFAQW-UHFFFAOYSA-N,31769-60-5,bitter,tas2r_agonists,CCC(C)C(=O)C1=C(O)C(CC=C(C)C)=C(O)C(CC=C(C)C)(CC=C(C)C)C1=O,Ligand to Tas2 Receptor
+Herbolide A,CC1C2CC(C(=CCCC(=CC2OC1=O)C)C)OC(=O)C,ALAJEHHXYIGXNY-ZDZYRWLBSA-N,64562-23-8,bitter,tas2r_agonists,CC(=O)OC1CC2C(C=C(C)CCC=C1C)OC(=O)C2C,Ligand to Tas2 Receptor
+Herbolide D,CC1C2CC(C(=C)CCC(C(=CC2OC1=O)C)O)O,VROLYSQPOBJAOX-XBYDQYMBSA-N,,bitter,tas2r_agonists,C=C1CCC(O)C(C)=CC2OC(=O)C(C)C2CC1O,Ligand to Tas2 Receptor
+L-phenylalanine; L-Phe,C1=CC=C(C=C1)CC(C(=O)O)N,COLNVLDHVKWLRT-QMMMGPOBSA-N,63-91-2,bitter,tas2r_agonists,NC(Cc1ccccc1)C(=O)O,Ligand to Tas2 Receptor
+Leu-Val-Tyr-Pro-Phe-Pro-Gly-Pro-Ile-His-Asn,CCC(C)C(C(=O)NC(CC1=CN=CN1)C(=O)NC(CC(=O)N)C(=O)O)NC(=O)C2CCCN2C(=O)CNC(=O)C3CCCN3C(=O)C(CC4=CC=CC=C4)NC(=O)C5CCCN5C(=O)C(CC6=CC=C(C=C6)O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)N,GQLLYOVQTZKCLF-LVEINZFUSA-N,,bitter,tas2r_agonists,CCC(C)C(NC(=O)C1CCCN1C(=O)CNC(=O)C1CCCN1C(=O)C(Cc1ccccc1)NC(=O)C1CCCN1C(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)C(N)CC(C)C)C(C)C)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CC(N)=O)C(=O)O,Ligand to Tas2 Receptor
+Cohumulone,CC(C)C(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O,DRSITEVYZGOOQG-UHFFFAOYSA-N,511-25-1,bitter,tas2r_agonists,CC(C)=CCC1=C(O)C(O)(CC=C(C)C)C(=O)C(C(=O)C(C)C)=C1O,Ligand to Tas2 Receptor
+Colupulone,CC(C)C(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O,UNCDMWKTFLUPHZ-UHFFFAOYSA-N,468-27-9,bitter,tas2r_agonists,CC(C)=CCC1=C(O)C(CC=C(C)C)(CC=C(C)C)C(=O)C(C(=O)C(C)C)=C1O,Ligand to Tas2 Receptor
+cis-isoadhumulone,[H][C@@]1(C/C=C(C)\C)C(=O)/C(C(=O)[C@@H](C)CC)=C(O)\[C@@]1(O)C(=O)C/C=C(C)\C,QHRQNLXYMFCGPB-ZSDSOXJFSA-N,1534-03-8,bitter,tas2r_agonists,CC[C@H](C)C(=O)C1=C(O)[C@@](O)(C(=O)CC=C(C)C)[C@H](CC=C(C)C)C1=O,Ligand to Tas2 Receptor
+trans-isoadhumulone,[H][C@@]1(C/C=C(C)\C)C(=O)/C(C(=O)[C@@H](C)CC)=C(O)\[C@]1(O)C(=O)C/C=C(C)\C,QHRQNLXYMFCGPB-PDSXEYIOSA-N,68107-76-6,bitter,tas2r_agonists,CC[C@H](C)C(=O)C1=C(O)[C@](O)(C(=O)CC=C(C)C)[C@H](CC=C(C)C)C1=O,Ligand to Tas2 Receptor
+cis-isocohumulone,CC(C)C(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O,KKXFYHZSOIALRM-VLIAUNLRSA-N,68127-23-1,bitter,tas2r_agonists,CC(C)=CCC(=O)C1(O)C(O)=C(C(=O)C(C)C)C(=O)C1CC=C(C)C,Ligand to Tas2 Receptor
+trans-isocohumulone,CC(C)C(=O)C1=C(C(C(C1=O)CC=C(C)C)(C(=O)CC=C(C)C)O)O,KKXFYHZSOIALRM-XOBRGWDASA-N,58501-77-2,bitter,tas2r_agonists,CC(C)=CCC(=O)C1(O)C(O)=C(C(=O)C(C)C)C(=O)C1CC=C(C)C,Ligand to Tas2 Receptor
+Isoxanthohumol,CC(=CCC1=C2C(=C(C=C1O)OC)C(=O)CC(O2)C3=CC=C(C=C3)O)C,YKGCBLWILMDSAV-UHFFFAOYSA-N, 521-48-2 ,bitter,tas2r_agonists,COc1cc(O)c(CC=C(C)C)c2c1C(=O)CC(c1ccc(O)cc1)O2,Ligand to Tas2 Receptor
+Lupulone,CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O,LSDULPZJLTZEFD-UHFFFAOYSA-N,468-28-0,bitter,tas2r_agonists,CC(C)=CCC1=C(O)C(CC=C(C)C)(CC=C(C)C)C(=O)C(C(=O)CC(C)C)=C1O,Ligand to Tas2 Receptor
+cis-isohumulone,[H][C@@]1(C/C=C(C)\C)C(=O)/C(C(=O)CC(C)C)=C(O)\[C@@]1(O)C(=O)C/C=C(C)\C,QARXXMMQVDCYGZ-VFNWGFHPSA-N,1534-03-8,bitter,tas2r_agonists,CC(C)=CCC(=O)[C@]1(O)C(O)=C(C(=O)CC(C)C)C(=O)[C@H]1CC=C(C)C,Ligand to Tas2 Receptor
+trans-isohumulone,[H][C@@]1(C/C=C(C)\C)C(=O)/C(C(=O)CC(C)C)=C(O)\[C@]1(O)C(=O)C/C=C(C)\C,QARXXMMQVDCYGZ-QVKFZJNVSA-N,467-72-1,bitter,tas2r_agonists,CC(C)=CCC(=O)[C@@]1(O)C(O)=C(C(=O)CC(C)C)C(=O)[C@H]1CC=C(C)C,Ligand to Tas2 Receptor
+Xanthohumol,CC(=CCC1=C(C(=C(C=C1O)OC)C(=O)C=CC2=CC=C(C=C2)O)O)C,ORXQGKIUCDPEAJ-YRNVUSSQSA-N,6754-58-1 ,bitter,tas2r_agonists,COc1cc(O)c(CC=C(C)C)c(O)c1C(=O)C=Cc1ccc(O)cc1,Ligand to Tas2 Receptor
+8-Prenylnaringenin,CC(=CCC1=C2C(=C(C=C1O)O)C(=O)CC(O2)C3=CC=C(C=C3)O)C,LPEPZZAVFJPLNZ-SFHVURJKSA-N,68682-02-0 ,bitter,tas2r_agonists,CC(C)=CCc1c(O)cc(O)c2c1OC(c1ccc(O)cc1)CC2=O,Ligand to Tas2 Receptor
+Steviolbioside,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)(C)C(=O)O,OMHUCGDTACNQEX-OSHKXICASA-N,41093-60-1,bitter,tas2r_agonists,C=C1CC23CCC4C(C)(C(=O)O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)C3,Ligand to Tas2 Receptor
+Rebaudioside B,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)OC5C(C(C(C(O5)CO)O)OC6C(C(C(C(O6)CO)O)O)O)OC7C(C(C(C(O7)CO)O)O)O)(C)C(=O)O,DRSKVOAJKLUMCL-MMUIXFKXSA-N,58543-17-2,bitter,tas2r_agonists,C=C1CC23CCC4C(C)(C(=O)O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(CO)C(O)C(O)C1O)C3,Ligand to Tas2 Receptor
+Rebaudioside C,CC1C(C(C(C(O1)OC2C(C(C(OC2OC34CCC5C6(CCCC(C6CCC5(C3)CC4=C)(C)C(=O)OC7C(C(C(C(O7)CO)O)O)O)C)CO)O)OC8C(C(C(C(O8)CO)O)O)O)O)O)O,QSRAJVGDWKFOGU-WBXIDTKBSA-N,63550-99-2,bitter,tas2r_agonists,C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(C)C(O)C(O)C1O)C3,Ligand to Tas2 Receptor
+Rubusoside,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)OC5C(C(C(C(O5)CO)O)O)O)(C)C(=O)OC6C(C(C(C(O6)CO)O)O)O,YWPVROCHNBYFTP-OSHKXICASA-N,64849-39-4,bitter,tas2r_agonists,C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1O)C3,Ligand to Tas2 Receptor
+Skimmianine,COC1=C(C2=C(C=C1)C(=C3C=COC3=N2)OC)OC,SLSIBLKBHNKZTB-UHFFFAOYSA-N,83-95-4,bitter,tas2r_agonists,COc1ccc2c(OC)c3ccoc3nc2c1OC,Ligand to Tas2 Receptor
+"Taurin, taurine",CC1C2CCC3(C(=O)CCC(=C3C2OC1=O)C)C,RSDQBPGKMDFRHH-MJVIGCOGSA-N,107-35-7,bitter,tas2r_agonists,CC1=C2C3OC(=O)C(C)C3CCC2(C)C(=O)CC1,Ligand to Tas2 Receptor
+Dulcoside A,CC1C(C(C(C(O1)OC2C(C(C(OC2OC34CCC5C6(CCCC(C6CCC5(C3)CC4=C)(C)C(=O)OC7C(C(C(C(O7)CO)O)O)O)C)CO)O)O)O)O)O,CANAPGLEBDTCAF-NTIPNFSCSA-N,64432-06-0,bitter,tas2r_agonists,C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1OC1OC(C)C(O)C(O)C1O)C3,Ligand to Tas2 Receptor
+Naringenin,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,FTVWIRXFELQLPI-UHFFFAOYSA-N,67604-48-2,bitter,tas2r_agonists,O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21,Ligand to Tas2 Receptor
+Nomilin,CC(=O)OC1CC(=O)OC(C2C1(C3CCC4(C(OC(=O)C5C4(C3(C(=O)C2)C)O5)C6=COC=C6)C)C)(C)C,KPDOJFFZKAUIOE-WNGDLQANSA-N,1063-77-0,bitter,tas2r_agonists,CC(=O)OC1CC(=O)OC(C)(C)C2CC(=O)C3(C)C(CCC4(C)C(c5ccoc5)OC(=O)C5OC543)C12C,Ligand to Tas2 Receptor
+Malvidin-3-glucoside,COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O,PXUQTDZNOHRWLI-OXUVVOBNSA-O,7228-78-6,bitter,tas2r_agonists,COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc(OC)c1O,Ligand to Tas2 Receptor
+Tyr-Pro-Phe-Pro-Gly-Pro-Ile-His-Asn-Ser,CCC(C)C(C(=O)NC(CC1=CN=CN1)C(=O)NC(CC(=O)N)C(=O)NC(CO)C(=O)O)NC(=O)C2CCCN2C(=O)CNC(=O)C3CCCN3C(=O)C(CC4=CC=CC=C4)NC(=O)C5CCCN5C(=O)C(CC6=CC=C(C=C6)O)N,UTLIMBWJQYIFTF-BGTRFFRESA-N,922713-39-1,bitter,tas2r_agonists,CCC(C)C(NC(=O)C1CCCN1C(=O)CNC(=O)C1CCCN1C(=O)C(Cc1ccccc1)NC(=O)C1CCCN1C(=O)C(N)Cc1ccc(O)cc1)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CC(N)=O)C(=O)NC(CO)C(=O)O,Ligand to Tas2 Receptor
+Nobiletin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,MRIAQLRQZPPODS-UHFFFAOYSA-N,478-01-3,bitter,tas2r_agonists,COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1OC,Ligand to Tas2 Receptor
+Pentagalloylglucose (PGG),C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6)O)O)O,QJYNZEYHSMRWBK-NIKIMHBISA-N,14937-32-7,bitter,tas2r_agonists,O=C(OCC1OC(OC(=O)c2cc(O)c(O)c(O)c2)C(OC(=O)c2cc(O)c(O)c(O)c2)C(OC(=O)c2cc(O)c(O)c(O)c2)C1OC(=O)c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1,Ligand to Tas2 Receptor
+Procyanidin trimer C2,C1C(C(OC2=C1C(=CC(=C2C3C(C(OC4=C(C(=CC(=C34)O)O)C5C(C(OC6=CC(=CC(=C56)O)O)C7=CC(=C(C=C7)O)O)O)C8=CC(=C(C=C8)O)O)O)O)O)C9=CC(=C(C=C9)O)O)O,MOJZMWJRUKIQGL-WNCKYJNFSA-N,37064-31-6,bitter,tas2r_agonists,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2,Ligand to Tas2 Receptor
+Tangeretin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC,ULSUXBXHSYSGDT-UHFFFAOYSA-N,481-53-8,bitter,tas2r_agonists,COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1,Ligand to Tas2 Receptor
+Tricetin,C1=C(C=C(C(=C1O)O)O)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,ARSRJFRKVXALTF-UHFFFAOYSA-N,520-31-0,bitter,tas2r_agonists,O=c1cc(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+"2,2',4'-trihydroxychalcone",C1=CC=C(C(=C1)C(=O)C=CC2=C(C=C(C=C2)O)O)O,ZLEFYDUXMWKPSH-UHFFFAOYSA-N,26962-50-5,bitter,tas2r_agonists,O=C(C=Cc1ccc(O)cc1O)c1ccccc1O,Ligand to Tas2 Receptor
+Apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,KZNIFHPLKGYRTM-UHFFFAOYSA-N,520-36-5,bitter,tas2r_agonists,O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+Biochanin A,COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O,WUADCCWRTIWANL-UHFFFAOYSA-N,491-80-5 ,bitter,tas2r_agonists,COc1ccc(-c2coc3cc(O)cc(O)c3c2=O)cc1,Ligand to Tas2 Receptor
+(+)-catechin,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,PFTAWBLQPZVEMU-DZGCQCFKSA-N,154-23-4,bitter,tas2r_agonists,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2,Ligand to Tas2 Receptor
+Chrysin,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,RTIXKCRFFJGDFG-UHFFFAOYSA-N,480-40-0,bitter,tas2r_agonists,O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+Chrysoeriol,COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,SCZVLDHREVKTSH-UHFFFAOYSA-N,491-71-4,bitter,tas2r_agonists,COc1cc(-c2cc(=O)c3c(O)cc(O)cc3o2)ccc1O,Ligand to Tas2 Receptor
+Coumestrol,C1=CC2=C(C=C1O)OC3=C2C(=O)OC4=C3C=CC(=C4)O,ZZIALNLLNHEQPJ-UHFFFAOYSA-N,479-13-0,bitter,tas2r_agonists,O=c1oc2cc(O)ccc2c2oc3cc(O)ccc3c12,Ligand to Tas2 Receptor
+Cyanidin chloride,C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O.[Cl-],COAWNPJQKJEHPG-UHFFFAOYSA-N,528-58-5,bitter,tas2r_agonists,Oc1cc(O)c2cc(O)c(-c3ccc(O)c(O)c3)[o+]c2c1.[Cl-],Ligand to Tas2 Receptor
+Cynaropicrin,C=C1CC(C2C(C3C1CC(C3=C)O)OC(=O)C2=C)OC(=O)C(=C)CO,KHSCYOFDKADJDJ-NQLMQOPMSA-N,35730-78-0,bitter,tas2r_agonists,C=C(CO)C(=O)OC1CC(=C)C2CC(O)C(=C)C2C2OC(=O)C(=C)C12,Ligand to Tas2 Receptor
+Daidzein,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,ZQSIJRDFPHDXIC-UHFFFAOYSA-N,486-66-8,bitter,tas2r_agonists,O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12,Ligand to Tas2 Receptor
+(-)-Epicatechin gallate; Ecg; Epicatechin gallate; ECG,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,LSHVYAFMTMFKBA-TZIWHRDSSA-N,1257-08-5,bitter,tas2r_agonists,O=C(OC1Cc2c(O)cc(O)cc2OC1c1ccc(O)c(O)c1)c1cc(O)c(O)c(O)c1,Ligand to Tas2 Receptor
+(-)-Epigallocatechin (EGC); Epigallocatechin; Gallocatechol,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O,XMOCLSLCDHWDHP-IUODEOHRSA-N,970-74-1 ,bitter,tas2r_agonists,Oc1cc(O)c2c(c1)OC(c1cc(O)c(O)c(O)c1)C(O)C2,Ligand to Tas2 Receptor
+Fisetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,XHEFDIBZLJXQHF-UHFFFAOYSA-N,528-48-3,bitter,tas2r_agonists,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)ccc12,Ligand to Tas2 Receptor
+Flavanone,C1C(OC2=CC=CC=C2C1=O)C3=CC=CC=C3,ZONYXWQDUYMKFB-UHFFFAOYSA-N,487-26-3,bitter,tas2r_agonists,O=C1CC(c2ccccc2)Oc2ccccc21,Ligand to Tas2 Receptor
+Flavone,C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2,VHBFFQKBGNRLFZ-UHFFFAOYSA-N,525-82-6,bitter,tas2r_agonists,O=c1cc(-c2ccccc2)oc2ccccc12,Ligand to Tas2 Receptor
+Flavonol,C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O,HVQAJTFOCKOKIN-UHFFFAOYSA-N,577-85-5,bitter,tas2r_agonists,O=c1c(O)c(-c2ccccc2)oc2ccccc12,Ligand to Tas2 Receptor
+Formononetin,COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O,HKQYGTCOTHHOMP-UHFFFAOYSA-N,485-72-3,bitter,tas2r_agonists,COc1ccc(-c2coc3cc(O)ccc3c2=O)cc1,Ligand to Tas2 Receptor
+Genistin,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)OC4C(C(C(C(O4)CO)O)O)O)O,ZCOLJUOHXJRHDI-CMWLGVBASA-N,529-59-9,bitter,tas2r_agonists,O=c1c(-c2ccc(O)cc2)coc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12,Ligand to Tas2 Receptor
+Glycitein,COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O,DXYUAIFZCFRPTH-UHFFFAOYSA-N,40957-83-3,bitter,tas2r_agonists,COc1cc2c(=O)c(-c3ccc(O)cc3)coc2cc1O,Ligand to Tas2 Receptor
+Glycitin,COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)OC4C(C(C(C(O4)CO)O)O)O,OZBAVEKZGSOMOJ-MIUGBVLSSA-N,40246-10-4,bitter,tas2r_agonists,COc1cc2c(=O)c(-c3ccc(O)cc3)coc2cc1OC1OC(CO)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Hesperetin; Hesperitin,COC1=C(C=C(C=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O,AIONOLUJZLIMTK-AWEZNQCLSA-N,520-33-2,bitter,tas2r_agonists,COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O,Ligand to Tas2 Receptor
+Homoeriodictyol,COC1=C(C=CC(=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O,FTODBIPDTXRIGS-ZDUSSCGKSA-N,446-71-9,bitter,tas2r_agonists,COc1cc(C2CC(=O)c3c(O)cc(O)cc3O2)ccc1O,Ligand to Tas2 Receptor
+4-hydroxychalcone,C1=CC=C(C=C1)C(=O)C=CC2=CC=C(C=C2)O,PWWCDTYUYPOAIU-DHZHZOJOSA-N,20426-12-4,bitter,tas2r_agonists,O=C(C=Cc1ccc(O)cc1)c1ccccc1,Ligand to Tas2 Receptor
+Iso-Glu-Trp,CCC(C)C(C(=O)NC(CCC(=O)N)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)O)N,MVLDERGQICFFLL-ZQINRCPSSA-N,,bitter,tas2r_agonists,CCC(C)C(N)C(=O)NC(CCC(N)=O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,Ligand to Tas2 Receptor
+Iso-Phe,CCC(C)C(C(=O)NC(CC1=CC=CC=C1)C(=O)O)N,WMDZARSFSMZOQO-DRZSPHRISA-N,22951-98-0,bitter,tas2r_agonists,CCC(C)C(N)C(=O)NC(Cc1ccccc1)C(=O)O,Ligand to Tas2 Receptor
+Isoflavone,C1=CC=C(C=C1)C2=COC3=CC=CC=C3C2=O,GOMNOOKGLZYEJT-UHFFFAOYSA-N,574-12-9,bitter,tas2r_agonists,O=c1c(-c2ccccc2)coc2ccccc12,Ligand to Tas2 Receptor
+Isopimpinellin,COC1=C2C=COC2=C(C3=C1C=CC(=O)O3)OC,DFMAXQKDIGCMTL-UHFFFAOYSA-N,482-27-9,bitter,tas2r_agonists,COc1c2ccoc2c(OC)c2oc(=O)ccc12,Ligand to Tas2 Receptor
+Kaempferol; Kaempherol,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,IYRMWMYZSQPJKC-UHFFFAOYSA-N,520-18-3,bitter,tas2r_agonists,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+Luteolin,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,IQPNAANSBPBGFQ-UHFFFAOYSA-N,491-70-3 ,bitter,tas2r_agonists,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+Pinocembrin,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3,URFCJEUYXNAHFI-ZDUSSCGKSA-N,480-39-7,bitter,tas2r_agonists,O=C1CC(c2ccccc2)Oc2cc(O)cc(O)c21,Ligand to Tas2 Receptor
+Quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,REFJWTPEDVJJIY-UHFFFAOYSA-N,117-39-5,bitter,tas2r_agonists,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+(+)-taxifolin; taxifoline; taxifolin,C1=CC(=C(C=C1C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,CXQWRCVTCMQVQX-LSDHHAIUSA-N,480-18-2,bitter,tas2r_agonists,O=C1c2c(O)cc(O)cc2OC(c2ccc(O)c(O)c2)C1O,Ligand to Tas2 Receptor
+Gly-Leu,CC(C)CC(C(=O)O)NC(=O)CN,DKEXFJVMVGETOO-LURJTMIESA-N,869-19-2,bitter,tas2r_agonists,CC(C)CC(NC(=O)CN)C(=O)O,Ligand to Tas2 Receptor
+Gossypetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O)O,YRRAGUMVDQQZIY-UHFFFAOYSA-N,489-35-0,bitter,tas2r_agonists,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2c(O)c(O)cc(O)c12,Ligand to Tas2 Receptor
+Herbacetin,C1=CC(=CC=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O,ZDOTZEDNGNPOEW-UHFFFAOYSA-N,527-95-7,bitter,tas2r_agonists,O=c1c(O)c(-c2ccc(O)cc2)oc2c(O)c(O)cc(O)c12,Ligand to Tas2 Receptor
+H.g.-12 (Hoodia Gordonii steroid glycoside),C/C=C(C)/C(=O)O[C@@H]6CC5C(C/C=C\4C[C@@H](OC3CC(OC)C(OC2CC(OC)C(OC1OC(C)C(O)C(OC)C1O)C(C)O2)C(C)O3)CC[C@@]45C)[C@@]7(O)CC[C@H](C(C)=O)[C@@]67C,CBMQKMMZBOSHHP-AYHBJYJESA-N,,bitter,tas2r_agonists,C/C=C(\C)C(=O)O[C@@H]1CC2C(CC=C3C[C@@H](OC4CC(OC)C(OC5CC(OC)C(OC6OC(C)C(O)C(OC)C6O)C(C)O5)C(C)O4)CC[C@@]32C)[C@@]2(O)CC[C@H](C(C)=O)[C@@]12C,Ligand to Tas2 Receptor
+Isorhamnetin ,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,IZQSVPBOUDKVDZ-UHFFFAOYSA-N,480-19-3,bitter,tas2r_agonists,COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O,Ligand to Tas2 Receptor
+Isoliquiritigenin,C1=CC(=CC=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O,DXDRHHKMWQZJHT-FPYGCLRLSA-N,961-29-5,bitter,tas2r_agonists,O=C(C=Cc1ccc(O)cc1)c1ccc(O)cc1O,Ligand to Tas2 Receptor
+Linamarin,CC(C)(C#N)OC1C(C(C(C(O1)CO)O)O)O,QLTCHMYAEJEXBT-ZEBDFXRSSA-N,554-35-8,bitter,tas2r_agonists,CC(C)(C#N)OC1OC(CO)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Liquiritigenin,C1C(OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,FURUXTVZLHCCNA-AWEZNQCLSA-N,578-86-9,bitter,tas2r_agonists,O=C1CC(c2ccc(O)cc2)Oc2cc(O)ccc21,Ligand to Tas2 Receptor
+Morin,C1=CC(=C(C=C1O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,YXOLAZRVSSWPPT-UHFFFAOYSA-N,480-16-0,bitter,tas2r_agonists,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+Phloretin,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)O)O)O,VGEREEWJJVICBM-UHFFFAOYSA-N,60-82-2,bitter,tas2r_agonists,O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O,Ligand to Tas2 Receptor
+Prunasin,C1=CC=C(C=C1)C(C#N)OC2C(C(C(C(O2)CO)O)O)O,ZKSZEJFBGODIJW-GMDXDWKASA-N,99-18-3,bitter,tas2r_agonists,N#CC(OC1OC(CO)C(O)C(O)C1O)c1ccccc1,Ligand to Tas2 Receptor
+Myricetin,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,IKMDFBPHZNJCSN-UHFFFAOYSA-N,529-44-2,bitter,tas2r_agonists,O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+"11β,13-dihydrolactucopicrin",CC1C2C(CC(=C3C(C2OC1=O)C(=CC3=O)CO)C)OC(=O)CC4=CC=C(C=C4)O,ICJJPTZLMALYBH-ZUQDHHQASA-N,125519-47-3,bitter,tas2r_agonists,CC1=C2C(=O)C=C(CO)C2C2OC(=O)C(C)C2C(OC(=O)Cc2ccc(O)cc2)C1,Ligand to Tas2 Receptor
+Lactucin,CC1=C2C(C3C(C(C1)O)C(=C)C(=O)O3)C(=CC2=O)CO,VJQAFLAZRVKAKM-VZLIPTOUSA-N,1891-29-8,bitter,tas2r_agonists,C=C1C(=O)OC2C3C(CO)=CC(=O)C3=C(C)CC(O)C12,Ligand to Tas2 Receptor
+"11β,13-dihydrolactucin",CC1C2C(CC(=C3C(C2OC1=O)C(=CC3=O)CO)C)O,ZHZZKRDEPZMPLJ-WLVQVHLUSA-N,,bitter,tas2r_agonists,CC1=C2C(=O)C=C(CO)C2C2OC(=O)C(C)C2C(O)C1,Ligand to Tas2 Receptor
+Tributyrin,CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC,UYXTWWCETRIEDR-UHFFFAOYSA-N,60-01-5,bitter,tas2r_agonists,CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC,Ligand to Tas2 Receptor
+Aristolochic acid,COC1=CC=CC2=C3C(=C(C=C21)[N+](=O)[O-])C(=CC4=C3OCO4)C(=O)O,BBFQZRXNYIEMAW-UHFFFAOYSA-N,313-67-7,bitter,tas2r_agonists,COc1cccc2c1cc([N+](=O)[O-])c1c(C(=O)O)cc3c(c12)OCO3,Ligand to Tas2 Receptor
+Aloin,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2C4C(C(C(C(O4)CO)O)O)O)C=C(C=C3O)CO,AFHJQYHRLPMKHU-OSYMLPPYSA-N,452311-56-7,bitter,tas2r_agonists,O=C1c2c(O)cccc2C(C2OC(CO)C(O)C(O)C2O)c2cc(CO)cc(O)c21,Ligand to Tas2 Receptor
+Andrographolide,CC12CCC(C(C1CCC(=C)C2CC=C3C(COC3=O)O)(C)CO)O,BOJKULTULYSRAS-OTESTREVSA-N,5508-58-7,bitter,tas2r_agonists,C=C1CCC2C(C)(CO)C(O)CCC2(C)C1CC=C1C(=O)OCC1O,Ligand to Tas2 Receptor
+Androsterone,CC12CCC(CC1CCC3C2CCC4(C3CCC4=O)C)O,QGXBDMJGAMFCBF-HLUDHZFRSA-N,53-41-8,bitter,tas2r_agonists,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,Ligand to Tas2 Receptor
+Arborescin ,CC1C2CCC3(C4(O3)CC=C(C4C2OC1=O)C)C,CBRKCJOSZHRKFH-UVGOUCATSA-N,6831-14-7,bitter,tas2r_agonists,CC1=CCC23OC2(C)CCC2C(C)C(=O)OC2C13,Ligand to Tas2 Receptor
+Arglabin,CC1=CCC23C1C4C(CCC2(O3)C)C(=C)C(=O)O4,UVJYAKBJSGRTHA-CUZKYEQNSA-N,84692-91-1,bitter,tas2r_agonists,C=C1C(=O)OC2C1CCC1(C)OC13CC=C(C)C23,Ligand to Tas2 Receptor
+Artemorin ,CC1=CC2C(CCC(=C)C(CC1)O)C(=C)C(=O)O2,JNHKVMWTQCZYHK-CVZWCJCVSA-N,64845-92-7,bitter,tas2r_agonists,C=C1CCC2C(=C)C(=O)OC2C=C(C)CCC1O,Ligand to Tas2 Receptor
+Atropine,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3,RKUNBYITZUJHSG-PJPHBNEVSA-N,51-55-8,bitter,tas2r_agonists,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Ligand to Tas2 Receptor
+Berberine; Berberine chloride,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,YBHILYKTIRIUTE-UHFFFAOYSA-N,633-65-8,bitter,tas2r_agonists,COc1ccc2cc3[n+](cc2c1OC)CCc1cc2c(cc1-3)OCO2,Ligand to Tas2 Receptor
+Brucine,COC1=C(C=C2C(=C1)C34CCN5C3CC6C7C4N2C(=O)CC7OCC=C6C5)OC,RRKTZKIUPZVBMF-IBTVXLQLSA-N,357-57-3,bitter,tas2r_agonists,COc1cc2c(cc1OC)C13CCN4CC5=CCOC6CC(=O)N2C1C6C5CC43,Ligand to Tas2 Receptor
+Camphor,CC1(C2CCC1(C(=O)C2)C)C,DSSYKIVIOFKYAU-UHFFFAOYSA-N,76-22-2,bitter,tas2r_agonists,CC12CCC(CC1=O)C2(C)C,Ligand to Tas2 Receptor
+Cascarillin,CC1C(CC2(C(C1(CC(C3=COC=C3)O)C=O)CCC(C2(C)O)O)C)OC(=O)C,ZOWKQQIGQBVKSV-BZLLESMPSA-N,10118-56-6,bitter,tas2r_agonists,CC(=O)OC1CC2(C)C(CCC(O)C2(C)O)C(C=O)(CC(O)c2ccoc2)C1C,Ligand to Tas2 Receptor
+Chloramphenicol,C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],WIIZWVCIJKGZOK-RKDXNWHRSA-N,56-75-7,bitter,tas2r_agonists,O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,Ligand to Tas2 Receptor
+Cnicin ,CC1=CCCC(=CC2C(C(C1)OC(=O)C(=C)C(CO)O)C(=C)C(=O)O2)CO,ZTDFZLVUIVPZDU-QGNHJMHWSA-N,24394-09-0,bitter,tas2r_agonists,C=C(C(=O)OC1CC(C)=CCCC(CO)=CC2OC(=O)C(=C)C21)C(O)CO,Ligand to Tas2 Receptor
+Colchicine,CC(=O)NC1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC,IAKHMKGGTNLKSZ-INIZCTEOSA-N,64-86-8,bitter,tas2r_agonists,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2,Ligand to Tas2 Receptor
+Costunolide,CC1=CCCC(=CC2C(CC1)C(=C)C(=O)O2)C,HRYLQFBHBWLLLL-AHNJNIBGSA-N,553-21-9,bitter,tas2r_agonists,C=C1C(=O)OC2C=C(C)CCC=C(C)CCC12,Ligand to Tas2 Receptor
+Creatinin; Creatinine,CN1CC(=O)N=C1N,DDRJAANPRJIHGJ-UHFFFAOYSA-N,60-27-5 ,bitter,tas2r_agonists,CN1CC(=O)N=C1N,Ligand to Tas2 Receptor
+Crispolide,CC12CCC(C(=CCC3C(C1O)OC(=O)C3=C)C2)OO,JXXWNBNYEWOORY-KHTYUQOESA-N,83217-86-1,bitter,tas2r_agonists,C=C1C(=O)OC2C1CC=C1CC(C)(CCC1OO)C2O,Ligand to Tas2 Receptor
+Erythromycin,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,ULGZDMOVFRHVEP-RWJQBGPGSA-N,114-07-8,bitter,tas2r_agonists,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,Ligand to Tas2 Receptor
+Helicin,C1=CC=C(C(=C1)C=O)OC2C(C(C(C(O2)CO)O)O)O,BGOFCVIGEYGEOF-UJPOAAIJSA-N,618-65-5,bitter,tas2r_agonists,O=Cc1ccccc1OC1OC(CO)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Noscapine,CN1CCC2=CC3=C(C(=C2C1C4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)OC)OCO3,AKNNEGZIBPJZJG-MSOLQXFVSA-N,128-62-1,bitter,tas2r_agonists,COc1ccc2c(c1OC)C(=O)OC2C1c2c(cc3c(c2OC)OCO3)CCN1C,Ligand to Tas2 Receptor
+Papaverine,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC,XQYZDYMELSJDRZ-UHFFFAOYSA-N,58-74-2,bitter,tas2r_agonists,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC,Ligand to Tas2 Receptor
+Parthenolide,CC1=CCCC2(C(O2)C3C(CC1)C(=C)C(=O)O3)C,KTEXNACQROZXEV-PVLRGYAZSA-N,20554-84-1 ,bitter,tas2r_agonists,C=C1C(=O)OC2C1CCC(C)=CCCC1(C)OC21,Ligand to Tas2 Receptor
+Picrotin,CC12C3C4C(C(C1(CC5C2(O5)C(=O)O3)O)C(=O)O4)C(C)(C)O,RYEFFICCPKWYML-QCGISDTRSA-N,21416-53-5,bitter,tas2r_agonists,CC(C)(O)C1C2OC(=O)C1C1(O)CC3OC34C(=O)OC2C14C,Ligand to Tas2 Receptor
+Picrotoxinin,CC(=C)C1C2C3C4(C(C1C(=O)O2)(CC5C4(O5)C(=O)O3)O)C,PIMZUZSSNYHVCU-YKWPQBAZSA-N,17617-45-7 ,bitter,tas2r_agonists,C=C(C)C1C2OC(=O)C1C1(O)CC3OC34C(=O)OC2C14C,Ligand to Tas2 Receptor
+Progesterone,CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C,RJKFOVLPORLFTN-LEKSSAKUSA-N,57-83-0,bitter,tas2r_agonists,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,Ligand to Tas2 Receptor
+Quassin; Quassia,CC1C=C(C(=O)C2(C1CC3C4(C2C(=O)C(=C(C4CC(=O)O3)C)OC)C)C)OC,IOSXSVZRTUWBHC-LBTVDEKVSA-N,76-78-8,bitter,tas2r_agonists,COC1=CC(C)C2CC3OC(=O)CC4C(C)=C(OC)C(=O)C(C2(C)C1=O)C34C,Ligand to Tas2 Receptor
+Sparteine,C1CCN2CC3CC(C2C1)CN4C3CCCC4,SLRCCWJSBJZJBV-ZQDZILKHSA-N,90-39-1 ,bitter,tas2r_agonists,C1CCN2CC3CC(CN4CCCCC34)C2C1,Ligand to Tas2 Receptor
+Strychnine ,C1CN2CC3=CCOC4CC(=O)N5C6C4C3CC2C61C7=CC=CC=C75,QMGVPVSNSZLJIA-FVWCLLPLSA-N,57-24-9,bitter,tas2r_agonists,O=C1CC2OCC=C3CN4CCC56c7ccccc7N1C5C2C3CC46,Ligand to Tas2 Receptor
+Tatridin A ,CC1=CC(C2C(C=C(C(CC1)O)C)OC(=O)C2=C)O,YMNZWKHEJQGPIA-HVCCRNAXSA-N,41653-75-2,bitter,tas2r_agonists,C=C1C(=O)OC2C=C(C)C(O)CCC(C)=CC(O)C12,Ligand to Tas2 Receptor
+Tatridin B ,CC1=CC(C2C(CC(=C)C(CC1)O)OC(=O)C2=C)O,KNEQPJSDSYNUHP-RFPYWGSLSA-N,41653-76-3,bitter,tas2r_agonists,C=C1CC2OC(=O)C(=C)C2C(O)C=C(C)CCC1O,Ligand to Tas2 Receptor
+Taurocholic acid,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C,WBWWGRHZICKQGZ-HZAMXZRMSA-N,81-24-3,bitter,tas2r_agonists,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,Ligand to Tas2 Receptor
+D-Trp; D-Tryptophan,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,QIVBCDIJIAJPQS-SECBINFHSA-N,153-94-6,bitter,tas2r_agonists,NC(Cc1c[nH]c2ccccc12)C(=O)O,Ligand to Tas2 Receptor
+Acesulfame K (sulfonyl amide sweetener),CC1=CC(=O)[N-]S(=O)(=O)O1.[K+],WBZFUFAFFUEMEI-UHFFFAOYSA-M,55589-62-3 ,bitter,tas2r_agonists,CC1=CC(=O)[N-]S(=O)(=O)O1.[K+],Ligand to Tas2 Receptor
+Acetaminophen; Paracetamol,CC(=O)NC1=CC=C(C=C1)O,RZVAJINKPMORJF-UHFFFAOYSA-N,103-90-2,bitter,tas2r_agonists,CC(=O)Nc1ccc(O)cc1,Ligand to Tas2 Receptor
+Xanthotoxin; Methoxsalen,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,QXKHYNVANLEOEG-UHFFFAOYSA-N,298-81-7,bitter,tas2r_agonists,COc1c2occc2cc2ccc(=O)oc12,Ligand to Tas2 Receptor
+Yohimbine,COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4)O,BLGXFZZNTVWLAY-SCYLSFHTSA-N,146-48-5,bitter,tas2r_agonists,COC(=O)C1C(O)CCC2CN3CCc4c([nH]c5ccccc45)C3CC21,Ligand to Tas2 Receptor
+Artemisinin ,CC1CCC2C(C(=O)OC3C24C1CCC(O3)(OO4)C)C,BLUAFEHZUWYNDE-NNWCWBAJSA-N,63968-64-9 ,bitter,tas2r_agonists,CC1CCC2C(C)C(=O)OC3OC4(C)CCC1C32OO4,Ligand to Tas2 Receptor
+Acetylgenistin,CC(=O)C1=C(C(=O)C2=C(C=C(C=C2O1)OC3C(C(C(C(O3)CO)O)O)O)O)C4=CC=C(C=C4)O,LFVPAOVVIFRRDV-RNDQNAPQSA-N,73566-30-0,bitter,tas2r_agonists,CC(=O)c1oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c2c(=O)c1-c1ccc(O)cc1,Ligand to Tas2 Receptor
+Acetyl-L-homoserine lactone,CC(=O)NC1CCOC1=O,XGSXMDQVYYCSDA-YFKPBYRVSA-N,51524-71-1,bitter,tas2r_agonists,CC(=O)NC1CCOC1=O,Ligand to Tas2 Receptor
+Aglycon H.g.-12,CC=C(C)C(=O)OC1CC2C(CC=C3C2(CCC(C3)O)C)C4(C1(C(CC4)C(=O)C)C)O,ATLKEQLPGRQWQA-JAHRXTSASA-N,,bitter,tas2r_agonists,CC=C(C)C(=O)OC1CC2C(CC=C3CC(O)CCC32C)C2(O)CCC(C(C)=O)C12C,Ligand to Tas2 Receptor
+Bergapten,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,BGEBZHIAGXMEMV-UHFFFAOYSA-N, 484-20-8,bitter,tas2r_agonists,COc1c2ccoc2cc2oc(=O)ccc12,Ligand to Tas2 Receptor
+Butein,C1=CC(=C(C=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O)O,AYMYWHCQALZEGT-ORCRQEGFSA-N,487-52-5,bitter,tas2r_agonists,O=C(C=Cc1ccc(O)c(O)c1)c1ccc(O)cc1O,Ligand to Tas2 Receptor
+Chalcone,C1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2,DQFBYFPFKXHELB-VAWYXSNFSA-N,614-47-1,bitter,tas2r_agonists,O=C(C=Cc1ccccc1)c1ccccc1,Ligand to Tas2 Receptor
+Datiscetin,C1=CC=C(C(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,WCNLFPKXBGWWDS-UHFFFAOYSA-N,480-15-9,bitter,tas2r_agonists,O=c1c(O)c(-c2ccccc2O)oc2cc(O)cc(O)c12,Ligand to Tas2 Receptor
+Dihydro-taurin ,CC1C2CCC3(C(CCC(=C3C2OC1=O)C)O)C,BWOPOAOBPJWDBF-UHFFFAOYSA-N,41410-55-3,bitter,tas2r_agonists,CC1=C2C3OC(=O)C(C)C3CCC2(C)C(O)CC1,Ligand to Tas2 Receptor
+"3,2-dihydroxychalcone",C1CN(CCC1=O)C2=CC(=CC=C2)F,FBLDYOQSZAVPAL-UHFFFAOYSA-N,36574-83-1,bitter,tas2r_agonists,O=C1CCN(c2cccc(F)c2)CC1,Ligand to Tas2 Receptor
+"5,2'-dihydroxyflavone",C1=CC=C(C(=C1)C2=CC(=O)C3=C(C=CC=C3O2)O)O,QAGGRDVXPIXVDQ-UHFFFAOYSA-N,6674-39-1,bitter,tas2r_agonists,O=c1cc(-c2ccccc2O)oc2cccc(O)c12,Ligand to Tas2 Receptor
+"5,4'-dihydroxyflavone",C1=CC(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O,OKRNDQLCMXUCGG-UHFFFAOYSA-N,6665-67-4,bitter,tas2r_agonists,O=c1cc(-c2ccc(O)cc2)oc2cccc(O)c12,Ligand to Tas2 Receptor
+"6,4'-dihydroxyflavone",C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=CC(=C3)O)O,FFULTBKXWHYHFQ-UHFFFAOYSA-N,63046-09-3,bitter,tas2r_agonists,O=c1cc(-c2ccc(O)cc2)oc2ccc(O)cc12,Ligand to Tas2 Receptor
+"7,4'-dihydroxyflavone",C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C=C3)O)O,LCAWNFIFMLXZPQ-UHFFFAOYSA-N,2196-14-7,bitter,tas2r_agonists,O=c1cc(-c2ccc(O)cc2)oc2cc(O)ccc12,Ligand to Tas2 Receptor
+"5,7'-dimethoxyflavone",COC1=CC2=C(C(=C1)OC)C(=O)C=C(O2)C3=CC=CC=C3,JRFZSUMZAUHNSL-UHFFFAOYSA-N,21392-57-4,bitter,tas2r_agonists,COc1cc(OC)c2c(=O)cc(-c3ccccc3)oc2c1,Ligand to Tas2 Receptor
+"6,7'-dimethoxyflavone",COC1=C(C=C2C(=C1)C(=O)C=C(O2)C3=CC=CC=C3)OC,XZRIVAKQBKTLEQ-UHFFFAOYSA-N,26964-27-2,bitter,tas2r_agonists,COc1cc2oc(-c3ccccc3)cc(=O)c2cc1OC,Ligand to Tas2 Receptor
+"7,4'-dimethoxyisoflavone",COC1=C(C=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)OC)O,RWRYIBYHFCNKHK-UHFFFAOYSA-N,1157-39-7,bitter,tas2r_agonists,COc1cc(O)c2c(=O)c(-c3ccc(OC)c(O)c3)coc2c1,Ligand to Tas2 Receptor
+Epizaluzannin C ,C=C1CCC2C(C3C1CC(C3=C)O)OC(=O)C2=C,XFVLNEYIZGZDHP-UHFFFAOYSA-N,16838-87-2,bitter,tas2r_agonists,C=C1C(=O)OC2C1CCC(=C)C1CC(O)C(=C)C12,Ligand to Tas2 Receptor
+(+/-) Equol,C1C(COC2=C1C=CC(=C2)O)C3=CC=C(C=C3)O,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,531-95-3,bitter,tas2r_agonists,Oc1ccc(C2COc3cc(O)ccc3C2)cc1,Ligand to Tas2 Receptor
+Esculine; Aesculin,C1=CC(=O)OC2=CC(=C(C=C21)OC3C(C(C(C(O3)CO)O)O)O)O,XHCADAYNFIFUHF-TVKJYDDYSA-N,531-75-9,bitter,tas2r_agonists,O=c1ccc2cc(OC3OC(CO)C(O)C(O)C3O)c(O)cc2o1,Ligand to Tas2 Receptor
+Fustin,C1=CC(=C(C=C1C2C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,FNUPUYFWZXZMIE-LSDHHAIUSA-N,20725-03-5,bitter,tas2r_agonists,O=C1c2ccc(O)cc2OC(c2ccc(O)c(O)c2)C1O,Ligand to Tas2 Receptor
+Genkwanin,COC1=CC(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O,JPMYFOBNRRGFNO-UHFFFAOYSA-N,437-64-9,bitter,tas2r_agonists,COc1cc(O)c2c(=O)cc(-c3ccc(O)cc3)oc2c1,Ligand to Tas2 Receptor
+"Germacradien-6,11-dihydroxy-8,12-olide ",CC1=CC(O)C2C(CC(C)=CCC1)OC(=O)C2(C)O,PWGGWJQDDMBSSI-VKXBSSMUSA-N,,bitter,tas2r_agonists,CC1=CC(O)C2C(CC(C)=CCC1)OC(=O)C2(C)O,Ligand to Tas2 Receptor
+4-Glucosyloxymandelonitrile,C1=CC(=CC=C1C(C#N)O)OC2C(C(C(C(O2)CO)O)O)O,RSMOYVJMDHSTEV-MXNNCRBYSA-N,22660-95-3,bitter,tas2r_agonists,N#CC(O)c1ccc(OC2OC(CO)C(O)C(O)C2O)cc1,Ligand to Tas2 Receptor
+Gly-Phe; Glycyl-l-phenylalanine; Glycylphenylalanine,C1=CC=C(C=C1)CC(C(=O)NC2=CC3=CC=CC=C3C=C2)NC(=O)CN,YABDXPBHLDPMOA-IBGZPJMESA-N,3321 03  7,bitter,tas2r_agonists,NCC(=O)NC(Cc1ccccc1)C(=O)Nc1ccc2ccccc2c1,Ligand to Tas2 Receptor
+Gly-Leu-Leu; Glycyl-Leucyl-Leucine,CC(C)CC(C(=O)NC(CC(C)C)C(=O)O)NC(=O)CN,UHPAZODVFFYEEL-QWRGUYRKSA-N,4464-35-1,bitter,tas2r_agonists,CC(C)CC(NC(=O)C(CC(C)C)NC(=O)CN)C(=O)O,Ligand to Tas2 Receptor
+Herbolide D acetate ,CC1C2CC(C(=C)C(CCC(=CC2OC1=O)C)OC(=O)C)OC(=O)C,VTWQYUXBPAQYBI-IQHLHDQJSA-N,,bitter,tas2r_agonists,C=C1C(OC(C)=O)CCC(C)=CC2OC(=O)C(C)C2CC1OC(C)=O,Ligand to Tas2 Receptor
+3β-hydroxydihydrocostunolide (3HDC),C/C2=C\CC(O)/C(C)=C/[C@H]1OC(=O)[C@@H](C)C1CC2,,,bitter,tas2r_agonists,C/C1=C\CC(O)/C(C)=C/[C@H]2OC(=O)[C@@H](C)C2CC1,Ligand to Tas2 Receptor
+Ile-Phe; Isoleucine-Phenylalanine,CCC(C)C(C(=O)NC(CC1=CC=CC=C1)C(=O)O)N,WMDZARSFSMZOQO-UHFFFAOYSA-N,,bitter,tas2r_agonists,CCC(C)C(N)C(=O)NC(Cc1ccccc1)C(=O)O,Ligand to Tas2 Receptor
+Jatrorrhizine,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,MXTLAHSTUOXGQF-UHFFFAOYSA-O,3621-38-3,bitter,tas2r_agonists,COc1cc2c(cc1O)CC[n+]1cc3c(OC)c(OC)ccc3cc1-2,Ligand to Tas2 Receptor
+Leu-Arg-Pro; Leucyl-Arginyl-Proline,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)O)N,IBMVEYRWAWIOTN-RWMBFGLXSA-N,,bitter,tas2r_agonists,CC(C)CC(N)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)O,Ligand to Tas2 Receptor
+Leu-Leu-Leu; Leucyl-Leucyl-Leucine,CC(C)CC(C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)O)N,DNDWZFHLZVYOGF-KKUMJFAQSA-N,10329-75-6,bitter,tas2r_agonists,CC(C)CC(N)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)O,Ligand to Tas2 Receptor
+Leu-Trp; Leucyl-Tryptophan,CC(C)CC(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)O)N,BQVUABVGYYSDCJ-UHFFFAOYSA-N,657377-74-7,bitter,tas2r_agonists,CC(C)CC(N)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,Ligand to Tas2 Receptor
+Liensinine,CN1CCC2=CC(=C(C=C2C1CC3=CC=C(C=C3)O)OC4=C(C=CC(=C4)CC5C6=CC(=C(C=C6CCN5C)OC)OC)O)OC,XCUCMLUTCAKSOZ-FIRIVFDPSA-N,2586-96-1,bitter,tas2r_agonists,COc1cc2c(cc1OC)C(Cc1ccc(O)c(Oc3cc4c(cc3OC)CCN(C)C4Cc3ccc(O)cc3)c1)N(C)CC2,Ligand to Tas2 Receptor
+Malonylgenistin,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)OC4C(C(C(C(O4)COC(=O)CC(=O)O)O)O)O)O,FRAUJUKWSKMNJY-RSEYPYQYSA-N,51011-05-3,bitter,tas2r_agonists,O=C(O)CC(=O)OCC1OC(Oc2cc(O)c3c(=O)c(-c4ccc(O)cc4)coc3c2)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Marrubiin,CC1CC2C3C(CCCC3(C1(CCC4=COC=C4)O)C)(C(=O)O2)C,HQLLRHCTVDVUJB-OBHOOXMTSA-N,465-92-9,bitter,tas2r_agonists,CC1CC2OC(=O)C3(C)CCCC(C)(C23)C1(O)CCc1ccoc1,Ligand to Tas2 Receptor
+Nobilin ,CC=C(C)C(=O)OC1CC(=CCC(C(=CC2C1C(=C)C(=O)O2)C)O)C,QFINJHBXXJQKPB-YVRWQVCISA-N,31824-11-0,bitter,tas2r_agonists,C=C1C(=O)OC2C=C(C)C(O)CC=C(C)CC(OC(=O)C(C)=CC)C12,Ligand to Tas2 Receptor
+Osmaronin epoxide,CC1(C(O1)C#N)COC2C(C(C(C(O2)CO)O)O)O,WIKISPGCKIJOQU-NJNULVQQSA-N,,bitter,tas2r_agonists,CC1(COC2OC(CO)C(O)C(O)C2O)OC1C#N,Ligand to Tas2 Receptor
+Parthenin,CC1CCC2C(C3(C1(C=CC3=O)O)C)OC(=O)C2=C,LLQCRTZROWMVOL-JISBIHODSA-N,508-59-8,bitter,tas2r_agonists,C=C1C(=O)OC2C1CCC(C)C1(O)C=CC(=O)C21C,Ligand to Tas2 Receptor
+Pelargoninidin chloride,C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O.[Cl-],YPVZJXMTXCOTJN-UHFFFAOYSA-N,134-04-3,bitter,tas2r_agonists,Oc1ccc(-c2[o+]c3cc(O)cc(O)c3cc2O)cc1.[Cl-],Ligand to Tas2 Receptor
+Prunetin,COC1=CC(=C2C(=C1)OC=C(C2=O)C3=CC=C(C=C3)O)O,KQMVAGISDHMXJJ-UHFFFAOYSA-N,552-59-0,bitter,tas2r_agonists,COc1cc(O)c2c(=O)c(-c3ccc(O)cc3)coc2c1,Ligand to Tas2 Receptor
+Quercetagetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C(=C3O)O)O)O)O)O,ZVOLCUVKHLEPEV-UHFFFAOYSA-N,90-18-6,bitter,tas2r_agonists,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)c(O)c(O)c12,Ligand to Tas2 Receptor
+Santamarine,CC1=CCC(C2(C1C3C(CC2)C(=C)C(=O)O3)C)O,PLSSEPIRACGCBO-PFFFPCNUSA-N,4290-13-5,bitter,tas2r_agonists,C=C1C(=O)OC2C1CCC1(C)C(O)CC=C(C)C21,Ligand to Tas2 Receptor
+Scutellarein,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,JVXZRQGOGOXCEC-UHFFFAOYSA-N,529-53-3,bitter,tas2r_agonists,O=c1cc(-c2ccc(O)cc2)oc2cc(O)c(O)c(O)c12,Ligand to Tas2 Receptor
+Silibinin,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=C(C=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O,SEBFKMXJBCUCAI-HKTJVKLFSA-N,22888-70-6,bitter,tas2r_agonists,COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O,Ligand to Tas2 Receptor
+Sintenin ,COC1=C(C=C(C=C1)CCCOC(=O)CCC2=CC(=C(C=C2)OC)OC)OC,SMPBPOTWROHQRV-UHFFFAOYSA-N,,bitter,tas2r_agonists,COc1ccc(CCCOC(=O)CCc2ccc(OC)c(OC)c2)cc1OC,Ligand to Tas2 Receptor
+Speciformin acetate,C=C1C(=O)OC2CC(C)=CCCC3(C)OC3C(OC(C)=O)C12,XLAPMFRPAHWCKZ-CEEVZKBLSA-N,,bitter,tas2r_agonists,C=C1C(=O)OC2CC(C)=CCCC3(C)OC3C(OC(C)=O)C12,Ligand to Tas2 Receptor
+Strychnine-N-oxide,C1C[N+]2(CC3=CCOC4CC(=O)N5C6C4C3CC2C61C7=CC=CC=C75)[O-],ADTDBAKUQAKBGZ-VXJIXCKJSA-N,7248-28-4,bitter,tas2r_agonists,O=C1CC2OCC=C3C[N+]4([O-])CCC56c7ccccc7N1C5C2C3CC64,Ligand to Tas2 Receptor
+Sulfuretin,C1=CC(=C(C=C1C=C2C(=O)C3=C(O2)C=C(C=C3)O)O)O,RGNXWPVNPFAADO-NSIKDUERSA-N,120-05-8,bitter,tas2r_agonists,O=C1C(=Cc2ccc(O)c(O)c2)Oc2cc(O)ccc21,Ligand to Tas2 Receptor
+Teuflavin,CC1CC(C2(C(C13CC(OC3O)C4=COC=C4)CCC(=O)C25CO5)COC(=O)C)O,LODLOXLOCXDUTE-BBBSVGCKSA-N,	92356-83-7,bitter,tas2r_agonists,CC(=O)OCC12C(O)CC(C)C3(CC(c4ccoc4)OC3O)C1CCC(=O)C21CO1,Ligand to Tas2 Receptor
+Teuflavoside,CC1CC(C2=C(CCCC2C13CC(OC3=O)C4=COC=C4)COC(=O)C)OC5C(C(C(C(O5)CO)O)O)O,HQWNBPDSSUVDMC-SUAWGPNASA-N,	92356-82-6,bitter,tas2r_agonists,CC(=O)OCC1=C2C(OC3OC(CO)C(O)C(O)C3O)CC(C)C3(CC(c4ccoc4)OC3=O)C2CCC1,Ligand to Tas2 Receptor
+Teumarin,CC1CC(C2(C(C13CC(OC3=O)C4=COC=C4)CC(CC25CO5)O)COC(=O)C)O,QBUFIBYHAIKJCS-IZZFZGLZSA-N,,bitter,tas2r_agonists,CC(=O)OCC12C(O)CC(C)C3(CC(c4ccoc4)OC3=O)C1CC(O)CC21CO1,Ligand to Tas2 Receptor
+Umbellifolide,CC(=O)CCCC1(CC2C(CC1=O)C(=C)C(=O)O2)C,MIRSLSRVCIOISZ-UHFFFAOYSA-N,89026-40-4,bitter,tas2r_agonists,C=C1C(=O)OC2CC(C)(CCCC(C)=O)C(=O)CC12,Ligand to Tas2 Receptor
+Vulgarolide,CC12CCC(OC1C3C(CCC(=O)C2)C(=C)C(=O)O3)O,LBKCMFUBEOROEX-UHFFFAOYSA-N,120674-40-0,bitter,tas2r_agonists,C=C1C(=O)OC2C1CCC(=O)CC1(C)CCC(O)OC21,Ligand to Tas2 Receptor
+Xanthone,C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3O2,JNELGWHKGNBSMD-UHFFFAOYSA-N,90-47-1,bitter,tas2r_agonists,O=c1c2ccccc2oc2ccccc12,Ligand to Tas2 Receptor
+Zaluzannin D ,CC(=O)OC1CC2C(C1=C)C3C(CCC2=C)C(=C)C(=O)O3,GKMFOEIZCLMZDE-QXKUPLGCSA-N,16838-85-0,bitter,tas2r_agonists,C=C1C(=O)OC2C1CCC(=C)C1CC(OC(C)=O)C(=C)C12,Ligand to Tas2 Receptor
+Baicalein,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,FXNFHKRTJBSTCS-UHFFFAOYSA-N,491-67-8,bitter,tas2r_agonists,O=c1cc(-c2ccccc2)oc2cc(O)c(O)c(O)c12,Ligand to Tas2 Receptor
+Baicalin,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O,IKIIZLYTISPENI-ZFORQUDYSA-N,21967-41-9,bitter,tas2r_agonists,O=C(O)C1OC(Oc2cc3oc(-c4ccccc4)cc(=O)c3c(O)c2O)C(O)C(O)C1O,Ligand to Tas2 Receptor
+Deacetyl nomilin,CC1(C2CC(=O)C3(C(C2(C(CC(=O)O1)O)C)CCC4(C35C(O5)C(=O)OC4C6=COC=C6)C)C)C,HWAJASVMTDEFJN-UHFFFAOYSA-N,3264-90-2,bitter,tas2r_agonists,CC1(C)OC(=O)CC(O)C2(C)C1CC(=O)C1(C)C2CCC2(C)C(c3ccoc3)OC(=O)C3OC321,Ligand to Tas2 Receptor
+Dehydroandrographolide,CC12CCC(C(C1CCC(=C)C2CC=C3C=COC3=O)(C)CO)O,YIIRVUDGRKEWBV-CZUXAOBFSA-N,1032910-41-0,bitter,tas2r_agonists,C=C1CCC2C(C)(CO)C(O)CCC2(C)C1CC=C1C=COC1=O,Ligand to Tas2 Receptor
+Manganese (II) chloride; MnCl2,[Cl-].[Cl-].[Mn+2],GLFNIEUTAYBVOC-UHFFFAOYSA-L,7773-01.5,bitter,tas2r_agonists,[Cl-].[Cl-].[Mn+2],Ligand to Tas2 Receptor
+Matrine,C1CC2C3CCCN4C3C(CCC4)CN2C(=O)C1,ZSBXGIUJOOQZMP-JLNYLFASSA-N,519-02-8,bitter,tas2r_agonists,O=C1CCCC2C3CCCN4CCCC(CN12)C34,Ligand to Tas2 Receptor
+Picfeltarraenin I A,CC1C(C(C(C(O1)OC2C(C(COC2OC3CCC4C(=CCC5C4(C(=O)CC6(C5(CC(C6C7(C(=O)C=C(O7)C(C)C)C)O)C)C)C)C3(C)C)O)O)O)O)O,WPXIIGGPWPYUSJ-CUXXYAFUSA-N,97230-47-2,bitter,tas2r_agonists,CC(C)C1=CC(=O)C(C)(C2C(O)CC3(C)C4CC=C5C(CCC(OC6OCC(O)C(O)C6OC6OC(C)C(O)C(O)C6O)C5(C)C)C4(C)C(=O)CC23C)O1,Ligand to Tas2 Receptor
+Picroside II,COC1=C(C=CC(=C1)C(=O)OC2C3C=COC(C3C4(C2O4)CO)OC5C(C(C(C(O5)CO)O)O)O)O,AKNILCMFRRDTEY-UHFFFAOYSA-N,39012-20-9,bitter,tas2r_agonists,COc1cc(C(=O)OC2C3C=COC(OC4OC(CO)C(O)C(O)C4O)C3C3(CO)OC23)ccc1O,Ligand to Tas2 Receptor
+"7,3',4'-trihydroxyisoflavone",C1=CC(=C(C=C1C2=COC3=C(C2=O)C=CC(=C3)O)O)O,DDKGKOOLFLYZDL-UHFFFAOYSA-N,485-63-2,bitter,tas2r_agonists,O=c1c(-c2ccc(O)c(O)c2)coc2cc(O)ccc12,Ligand to Tas2 Receptor
+Trp-Leu,CC(C)CC(C(=O)O)NC(=O)C(CC1=CNC2=CC=CC=C21)N,LYMVXFSTACVOLP-ZFWWWQNUSA-N,13123-35-8,bitter,tas2r_agonists,CC(C)CC(NC(=O)C(N)Cc1c[nH]c2ccccc12)C(=O)O,Ligand to Tas2 Receptor
+Trp-Phe,C1=CC=C(C=C1)CC(C(=O)O)NC(=O)C(CC2=CNC3=CC=CC=C32)N,IMMPMHKLUUZKAZ-WMZOPIPTSA-N,6686-02-8,bitter,tas2r_agonists,NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1ccccc1)C(=O)O,Ligand to Tas2 Receptor
+Trp-Pro,C1CC(N(C1)C(=O)C(CC2=CNC3=CC=CC=C32)N)C(=O)O,DXYQIGZZWYBXSD-JSGCOSHPSA-N,38136-75-3,bitter,tas2r_agonists,NC(Cc1c[nH]c2ccccc12)C(=O)N1CCCC1C(=O)O,Ligand to Tas2 Receptor
+Trp-Trp,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)O)N,NQIHMZLGCZNZBN-PXNSSMCTSA-N,20696-60-0,bitter,tas2r_agonists,NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,Ligand to Tas2 Receptor
+Trp-Trp-Trp,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)O)N,KRCAKIVDAFTTGJ-ARVREXMNSA-N,59005-82-2,bitter,tas2r_agonists,NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,Ligand to Tas2 Receptor
+Wogonoside,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)OC4C(C(C(C(O4)C(=O)O)O)O)O,LNOHXHDWGCMVCO-NTKSAMNMSA-N,632-85-9,bitter,tas2r_agonists,COc1c(OC2OC(C(=O)O)C(O)C(O)C2O)cc(O)c2c(=O)cc(-c3ccccc3)oc12,Ligand to Tas2 Receptor
+Wogonin,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,XLTFNNCXVBYBSX-UHFFFAOYSA-N,51059-44-0,bitter,tas2r_agonists,COc1c(O)cc(O)c2c(=O)cc(-c3ccccc3)oc12,Ligand to Tas2 Receptor

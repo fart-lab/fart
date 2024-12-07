@@ -1,8 +1,7 @@
 ## Flavor Analysis and Recognizion Transformer (FART)
 
 ## Description
-FART is a tool to predict the taste of a molecule, based on its SMILES representation. The model utilizes a fine-tuned LLM, ChemBERTa, trained on SMILES....
-The FART dataset combines several sources into a FAIR dataset.
+The Flavor Analysis and Recognition Transformer (FART) is a state-of-the-art machine learning model designed to predict molecular taste from chemical structures encoded as SMILES. Developed using the pre-trained foundation model ChemBERTa, FART leverages a transformer architecture to classify molecules across four key taste categories—sweet, bitter, sour, and umami—while also accommodating tasteless or undefined compounds. Unlike previous approaches that relied on binary classification, FART performs parallel multi-class predictions with an accuracy exceeding 91%, offering interpretability through gradient-based visualizations of molecular features. This novel approach facilitates the identification of key structural elements influencing taste, enabling applications in both flavor compound discovery and rational food design.
 
 ## Installation
 All .ipynb notebooks can be run on GoogleColab without any further modifications. 
@@ -14,6 +13,8 @@ All .ipynb notebooks can be run on GoogleColab without any further modifications
 * Files for the training of the random forest and transformer models are found in /models 
 
 ## Dataset
+
+The FART dataset is the largest publicly available collection of molecular tastants to date, comprising 15,025 curated entries derived from six independent sources. Each molecule is annotated with one or more taste labels (sweet, bitter, sour, umami, or undefined) following rigorous curation protocols. Duplicates were removed based on canonicalized SMILES, reducing overlap among entries. Additional enrichment with metadata such as PubChem ID, IUPAC name, molecular formula, and molecular weight was performed using the PubChem API. The dataset adheres to the FAIR principles, ensuring accessibility and reusability, and is hosted publicly to support further research. Its chemical diversity spans a molecular weight range centered at 374 Da ± 228, making it suitable for small molecule taste prediction.
 
 `FART_Data_Extraction.ipynb` extracts data from five different online sources and produces the dataset `fart_uncurated.csv`. 
 

@@ -24,6 +24,10 @@ The FART dataset is the largest publicly available collection of molecular tasta
 
 `FART_dataset_enrichment.ipynb` can be optionally used to retrieve more features for molecules which are also listed on PubChem. This script produces the `fart_enriched.csv` dataset which additionally includes the columns `PubChemID`, `IUPAC Name`, `Molecular Formula`, `Molecular Weight`, `InChI` and `InChiKey`. 
 
+### Alternate Dataset
+
+An alternative dataset is also available where data curation further includes salt stripping, reionization, even more extensive tautomer canonicalization, as well as the removel of any stereoisomers. While these factors do impact taste and should thus influence taste prediction too, such as aspartame which tastes sweet in one enantiomer and bitter in its other, many data curation pipelines typically do include the above mentioned steps. Hence, to allow for a sanity check we also benchmarked our models on this even more restrictively curated dataset, finding that our initial results remain consistent. 
+
 ## Random Forest Models 
 
 All three tree-based classifiers were trained in `model/Tree-Baseline-Models.ipynb`.

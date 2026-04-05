@@ -26,7 +26,7 @@ The FART dataset is the largest publicly available collection of molecular tasta
 
 ### Alternate Dataset
 
-An alternative dataset is also available where data curation further includes salt stripping, reionization, even more extensive tautomer canonicalization, as well as the removel of any stereoisomers. While these factors do impact taste and should thus influence taste prediction too, such as aspartame which tastes sweet in one enantiomer and bitter in its other, many data curation pipelines typically do include the above mentioned steps. Hence, to allow for a sanity check we also benchmarked our models on this even more restrictively curated dataset, finding that our initial results remain consistent. 
+An alternative dataset is also available under `data_alternate_standardization/` where data curation further includes salt stripping, reionization, even more extensive tautomer canonicalization, as well as the removel of any stereoisomers. While these factors do impact taste and should thus influence taste prediction too, such as aspartame which tastes sweet in one enantiomer and bitter in its other, many data curation pipelines typically do include the above mentioned steps. Hence, to allow for a sanity check we also benchmarked our models on this even more restrictively curated dataset, finding that our initial results remain consistent. 
 
 ## Random Forest Models 
 
